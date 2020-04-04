@@ -11,7 +11,7 @@ allprojects {
 	}
 
 	dependencies {
-    	  implementation 'com.github.yoyo0316:GodRefresh:Tag'
+    	  implementation 'com.github.yoyo0316:GodRefresh:v1.0.0'
     	}
 
 ~~~
